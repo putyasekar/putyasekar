@@ -1,16 +1,25 @@
-### Hi there 👋
+# 👋 Hello Folks! Putya here.
 
-<!--
-**putyasekar/putyasekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀 Here, you'll find a collection of my oldies coding adventures, projects, and maybe a bit of whimsy. Feel free to explore and contribute! 🌟
 
-Here are some ideas to get you started:
+## 🚀 Quick Highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a Vice Manager of Web Developer at Marine Icon 2024 - an annual event of Marine Engineering Department, we raise awareness of the importance of the maritime sector in society, and develop Human Resources (HR).
+- 🌱 I’m constantly learning and exploring new technologies.
+- 💬 Let's talk about UI/UX too, shall we?
+- 📫 How to reach me: putyasekarayu@gmail.com
+
+## 🛠️ Tech Stack
+
+Here are some of the technologies I love to work with:
+
+- **Languages**: Java & Kotlin
+- **Frameworks & Libraries**: Android Jetpack (who doesn't love it right??), React Native, Dragger2, Kotlin Coroutines, Room, Fuel, and so on!
+- **Tools & Platforms**: Android Studio (Preferably)
+  
+## 🌐 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/putyasekar/
+- Instagram: https://www.instagram.com/putyasekar/
+
+## 🎉 Thanks for dropping by! 🚀
