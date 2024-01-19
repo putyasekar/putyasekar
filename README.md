@@ -8,6 +8,7 @@ Welcome to my GitHub profile! 🚀 Here, you'll find a collection of my oldies c
 - 🌱 I’m constantly learning and exploring new technologies.
 - 💬 Let's talk about UI/UX too, shall we?
 - 📫 How to reach me: putyasekarayu@gmail.com
+- 📄 See my portfolio: https://s.id/PortfolioPutya
 
 ## 🛠️ Tech Stack
 
@@ -19,7 +20,7 @@ Here are some of the technologies I love to work with:
   
 ## 🌐 Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/putyasekar/
-- Instagram: https://www.instagram.com/putyasekar/
+- LinkedIn: https://s.id/LinkedInPutya
+- Instagram: https://s.id/InstagramPutya
 
 ## 🎉 Thanks for dropping by! 🚀
